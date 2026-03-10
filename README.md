@@ -1,0 +1,3 @@
+- 风险分析数据集：https://huggingface.co/datasets/benstaf/risk_nasdaq
+- 情感分析数据集：https://huggingface.co/datasets/benstaf/nasdaq_news_sentiment
+- 优化数据分布与提示，LORA微调QWEN-4B模型，准确率相对基础模型上升 10%以上，达 84%/85%
